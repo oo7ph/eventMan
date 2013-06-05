@@ -1,0 +1,16 @@
+{
+  "name": "cleerly-event-server",
+  "version": "0.0.1-4",
+  "dependencies": {
+    "socket.io": "x",
+    "underscore": "1.4.3"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "subdomain": "cleerly-relay",
+  "scripts": {
+    "start": "web.js"
+  }
+}
